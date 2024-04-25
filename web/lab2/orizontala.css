@@ -1,0 +1,36 @@
+header {
+    background-color: #e18e96;
+    height: 200px;
+    padding: 20px;
+}
+
+#Menu {
+    background-color: #ff1493;
+    height: auto;
+    padding: 10px;
+    display: flex;
+}
+
+#Main {
+    background-color: #ffb6c1;
+    height: 400px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #ff77ff;
+    height: 50px;
+    padding: 20px;
+}
+
+#Menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+}
+
+#Menu ul li {
+    display: inline;
+    margin-bottom: 10px;
+}

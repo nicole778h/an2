@@ -1,0 +1,28 @@
+/* Stilul 1 - imagini dispuse 2x2 cu chenar albastru */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #fff;
+    /* Fond alb între imagini */
+    padding: 20px;
+    border: 5px solid #000;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    border-radius: 10px;
+    border: 30px solid #3399ff;
+    /* Chenar albastru mai vizibil */
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.1);
+}

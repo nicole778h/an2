@@ -1,0 +1,60 @@
+/* Resetăm stilurile implicite ale elementelor */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Stiluri pentru containerul input-urilor */
+.input-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 40px);
+    /* 6 input-uri cu lățime de 40px fiecare */
+    gap: 5px;
+    /* Spațiere între input-uri */
+}
+
+/* Stiluri pentru input-uri */
+.input-grid input[type="text"] {
+    width: 40px;
+    /* Lățimea fiecărui input */
+    height: 40px;
+    /* Înălțimea fiecărui input */
+    text-align: center;
+    /* Alinierea textului la centru */
+    font-family: Arial, sans-serif;
+    /* Font family */
+    font-size: 24px;
+    /* Mărimea fontului */
+    border: 1px solid #ccc;
+    /* Bordură gri */
+    border-radius: 4px;
+    /* Colțuri rotunjite */
+    outline: none;
+    /* Eliminăm conturul la focus */
+}
+
+/* Stiluri pentru input-uri la hover */
+.input-grid input[type="text"]:hover {
+    border-color: #666;
+    /* Schimbăm culoarea bordurii la hover */
+}
+
+/* Stiluri pentru input-uri la focus */
+.input-grid input[type="text"]:focus {
+    border-color: #000;
+    /* Schimbăm culoarea bordurii la focus */
+}
+
+.input-grid {
+    margin-bottom: 20px;
+}
+
+.input-row {
+    display: flex;
+    align-items: center;
+}
+
+.input-row p {
+    margin-right: 10px;
+}
