@@ -1,0 +1,52 @@
+2024-03-27 16:30:39,869 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-03-27 16:30:39,994 [1] ERROR Sem10.Program - An error occurred in the application.
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.SortedList`2.get_Item(TKey key)
+   at lab_mpp3.DbUtils.SqliteConnectionFactory.createConnection(IDictionary`2 properties) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\DbUtils\SqlliteConnectionFactory.cs:line 13
+   at lab_mpp3.repository.DBUtils.getNewConnection(IDictionary`2 props) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\repository\DBUtils.cs:line 29
+   at lab_mpp3.repository.DBUtils.getConnection(IDictionary`2 props) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\repository\DBUtils.cs:line 19
+   at lab_mpp3.repository.UserRepository.save(User elem) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\repository\UserRepository.cs:line 23
+   at Sem10.Program.SaveUser(IDictionary`2 props) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\Program.cs:line 66
+   at Sem10.Program.Main(String[] args) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\Program.cs:line 31
+2024-03-27 16:32:35,413 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-03-27 16:32:35,600 [1] ERROR Sem10.Program - An error occurred in the application.
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.SortedList`2.get_Item(TKey key)
+   at lab_mpp3.DbUtils.SqliteConnectionFactory.createConnection(IDictionary`2 properties) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\DbUtils\SqlliteConnectionFactory.cs:line 13
+   at lab_mpp3.repository.DBUtils.getNewConnection(IDictionary`2 props) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\repository\DBUtils.cs:line 29
+   at lab_mpp3.repository.DBUtils.getConnection(IDictionary`2 props) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\repository\DBUtils.cs:line 19
+   at lab_mpp3.repository.UserRepository.save(User elem) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\repository\UserRepository.cs:line 23
+   at Sem10.Program.SaveUser(IDictionary`2 props) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\Program.cs:line 66
+   at Sem10.Program.Main(String[] args) in C:\Users\Galdeanu\RiderProjects\lab_mpp3\lab_mpp3\Program.cs:line 31
+2024-03-27 16:33:46,884 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-03-27 16:37:02,713 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-03-27 16:41:58,429 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-03-27 16:44:02,137 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-01 10:11:05,440 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-01 10:20:32,175 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-01 10:25:04,331 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-01 10:28:00,227 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-01 10:34:30,696 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-01 10:51:04,681 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-02 09:20:49,418 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-02 09:20:52,234 [1] INFO SpectacolDbRepository - Creating SpectacolRepository 
+2024-04-02 09:20:52,274 [1] INFO BiletDbRepository - Creating BiletRepository 
+2024-04-02 09:28:07,766 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-02 09:28:08,388 [1] INFO SpectacolDbRepository - Creating SpectacolRepository 
+2024-04-02 09:28:08,411 [1] INFO BiletDbRepository - Creating BiletRepository 
+2024-04-02 09:30:58,621 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-02 09:30:59,195 [1] INFO Sem10.Program - Username: Testusername, Password: Testpassword
+2024-04-02 09:30:59,196 [1] INFO SpectacolDbRepository - Creating SpectacolRepository 
+2024-04-02 09:30:59,230 [1] INFO BiletDbRepository - Creating BiletRepository 
+2024-04-02 09:36:28,556 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-02 09:36:29,214 [1] INFO Sem10.Program - Username: Testusername, Password: Testpassword
+2024-04-02 09:36:29,215 [1] INFO SpectacolDbRepository - Creating SpectacolRepository 
+2024-04-02 09:36:29,250 [1] INFO Sem10.Program - Spectacol: Nume artist, Data: 5/21/2024 12:00:00 AM, Loc: Sala Polivalenta, Numar Locuri Disponibile: 200, Numar Locuri Vandute: 0
+2024-04-02 09:36:29,278 [1] INFO BiletDbRepository - Creating BiletRepository 
+2024-04-03 13:02:29,080 [1] INFO UsersDbRepository - Creating UsersRepository 
+2024-04-03 13:02:31,669 [1] INFO Sem10.Program - Username: Testusername, Password: Testpassword
+2024-04-03 13:02:31,676 [1] INFO SpectacolDbRepository - Creating SpectacolRepository 
+2024-04-03 13:02:31,730 [1] INFO Sem10.Program - Spectacol: Nume artist, Data: 5/21/2024 12:00:00 AM, Loc: Sala Polivalenta, Numar Locuri Disponibile: 200, Numar Locuri Vandute: 0
+2024-04-03 13:02:31,738 [1] INFO BiletDbRepository - Creating BiletRepository 
