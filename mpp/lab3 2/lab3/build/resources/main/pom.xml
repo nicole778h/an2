@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- Alte dependențe -->
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <version>1.18.20</version> <!-- sau ultima versiune disponibila -->
+        <scope>provided</scope>
+    </dependency>
+</dependencies>

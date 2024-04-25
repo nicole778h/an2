@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="600" prefWidth="800" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controller.MainController">
+    <!-- Lista spectacolelor -->
+    <TableView layoutX="50" layoutY="50" prefHeight="200" prefWidth="700" fx:id="spectacolTable">
+        <columns>
+            <TableColumn fx:id="artistColumn" text="Nume Artist" prefWidth="150">
+                <cellValueFactory>
+                    <PropertyValueFactory property="numeArtist" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="dateColumn" text="Data" prefWidth="150">
+                <cellValueFactory>
+                    <PropertyValueFactory property="data" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="availableSeatsColumn" text="Locuri disponibile" prefWidth="150">
+                <cellValueFactory>
+                    <PropertyValueFactory property="locuriDisponibile" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="locationColumn" text="Loc" prefWidth="150">
+                <cellValueFactory>
+                    <PropertyValueFactory property="loc" />
+                </cellValueFactory>
+            </TableColumn>
+
+            <!-- Coloana pentru numărul de locuri vândute -->
+            <TableColumn fx:id="soldSeatsColumn" text="Locuri vândute" prefWidth="150">
+                <cellValueFactory>
+                    <PropertyValueFactory property="numarLocVandute" />
+                </cellValueFactory>
+            </TableColumn>
+        </columns>
+    </TableView>
+
+    <!-- Căutare după dată -->
+    <Label layoutX="50" layoutY="270" text="Căutare spectacol după dată:" />
+    <TextField fx:id="searchDateField" layoutX="220" layoutY="270" prefWidth="150" />
+    <Button layoutX="400" layoutY="270" mnemonicParsing="false" onAction="#searchByDate" text="Caută" />
+
+    <!-- Detalii achiziționare bilete -->
+    <Label layoutX="50" layoutY="480" text="Achiziționare bilete" />
+    <Label layoutX="50" layoutY="510" text="Nume cumpărător:" />
+    <TextField fx:id="buyerNameField" layoutX="180" layoutY="510" prefWidth="150" />
+    <Label layoutX="50" layoutY="540" text="Număr locuri:" />
+    <TextField fx:id="numSeatsField" layoutX="180" layoutY="540" prefWidth="50" />
+    <Button layoutX="300" layoutY="540" mnemonicParsing="false" onAction="#buyTickets" text="Achiziționează" />
+
+    <!-- Logout -->
+    <Button layoutX="50" layoutY="570" mnemonicParsing="false" onAction="#logout" text="Logout" />
+</AnchorPane>

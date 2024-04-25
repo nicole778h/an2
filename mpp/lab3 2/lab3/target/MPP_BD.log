@@ -1,0 +1,1248 @@
+20 Mar 2024 12:51:11,453 INFO  org.example.Main 37 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+20 Mar 2024 12:51:11,468 INFO  org.example.Main 46 testRepositories - Utilizatori din baza de date:
+20 Mar 2024 12:51:11,667 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator1
+20 Mar 2024 12:51:11,668 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator2
+20 Mar 2024 12:51:11,670 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator3
+20 Mar 2024 12:51:11,673 INFO  org.example.Main 51 testRepositories - 
+Spectacole din baza de date:
+20 Mar 2024 12:51:11,799 INFO  org.example.Main 56 testRepositories - 
+Bilete din baza de date:
+20 Mar 2024 12:51:11,950 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator1 - 2
+20 Mar 2024 12:51:11,953 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator2 - 3
+20 Mar 2024 12:51:11,953 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator3 - 1
+20 Mar 2024 13:03:29,981 INFO  org.example.Main 37 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+20 Mar 2024 13:03:29,997 INFO  org.example.Main 46 testRepositories - Utilizatori din baza de date:
+20 Mar 2024 13:03:30,285 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator1
+20 Mar 2024 13:03:30,286 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator2
+20 Mar 2024 13:03:30,287 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator3
+20 Mar 2024 13:03:30,293 INFO  org.example.Main 51 testRepositories - 
+Spectacole din baza de date:
+20 Mar 2024 13:03:30,526 INFO  org.example.Main 56 testRepositories - 
+Bilete din baza de date:
+20 Mar 2024 13:03:30,753 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator1 - 2
+20 Mar 2024 13:03:30,755 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator2 - 3
+20 Mar 2024 13:03:30,757 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 12:11:29,866 INFO  org.example.Main 37 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:11:29,882 INFO  org.example.Main 46 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 12:11:30,055 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 12:11:30,055 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 12:11:30,056 INFO  org.example.Main 47 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 12:11:30,060 INFO  org.example.Main 51 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 12:11:30,230 INFO  org.example.Main 56 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 12:11:30,359 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 12:11:30,361 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 12:11:30,362 INFO  org.example.Main 57 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 12:15:16,935 INFO  org.example.Main 51 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:18:20,150 INFO  org.example.Main 51 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:18:56,952 INFO  org.example.Main 51 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:26:59,804 INFO  org.example.Main 46 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:26:59,818 INFO  org.example.Main 55 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 12:26:59,979 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 12:26:59,980 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 12:26:59,981 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 12:26:59,985 INFO  org.example.Main 60 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 12:27:00,204 INFO  org.example.Main 65 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 12:27:00,377 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 12:27:00,379 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 12:27:00,381 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 12:29:45,176 INFO  org.example.Main 46 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:29:48,617 INFO  org.example.Main 55 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 12:29:51,788 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 12:29:51,790 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 12:29:51,791 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 12:29:51,798 INFO  org.example.Main 60 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 12:29:54,727 INFO  org.example.Main 65 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 12:29:58,108 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 12:29:58,109 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 12:29:58,111 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 12:32:26,244 INFO  org.example.Main 46 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:32:26,260 INFO  org.example.Main 55 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 12:32:26,409 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 12:32:26,410 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 12:32:26,413 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 12:32:26,418 INFO  org.example.Main 60 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 12:32:26,557 INFO  org.example.Main 65 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 12:32:26,678 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 12:32:26,679 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 12:32:26,682 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 12:32:40,056 INFO  org.example.Main 46 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 12:32:40,071 INFO  org.example.Main 55 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 12:32:40,221 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 12:32:40,224 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 12:32:40,227 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 12:32:40,237 INFO  org.example.Main 60 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 12:32:40,350 INFO  org.example.Main 65 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 12:32:40,459 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 12:32:40,460 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 12:32:40,460 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 13:04:50,280 INFO  org.example.Main 46 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 13:04:50,300 INFO  org.example.Main 55 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 13:04:50,463 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 13:04:50,464 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 13:04:50,465 INFO  org.example.Main 56 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 13:04:50,469 INFO  org.example.Main 60 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 13:04:50,575 INFO  org.example.Main 65 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 13:04:50,702 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 13:04:50,703 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 13:04:50,704 INFO  org.example.Main 66 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 14:51:16,505 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 14:51:16,515 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 14:51:16,644 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 14:51:16,644 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 14:51:16,645 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 14:51:16,648 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 14:51:16,740 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 14:51:16,843 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 14:51:16,844 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 14:51:16,844 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 14:58:47,034 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 14:58:47,056 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 14:58:47,206 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 14:58:47,208 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 14:58:47,209 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 14:58:47,211 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 14:58:47,432 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 14:58:47,510 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 14:58:47,511 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 14:58:47,511 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:00:51,652 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:00:54,866 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:00:58,210 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:00:58,211 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:00:58,212 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:00:58,216 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:01:00,497 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:01:03,247 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:01:03,249 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:01:03,250 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:02:12,023 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:02:12,035 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:02:12,162 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:02:12,162 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:02:12,163 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:02:12,166 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:02:12,400 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:02:12,511 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:02:12,512 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:02:12,513 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:02:45,484 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:02:45,498 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:02:45,597 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:02:45,601 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:02:45,602 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:02:45,609 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:02:45,758 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:02:45,854 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:02:45,854 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:02:45,855 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:04:33,937 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:04:33,949 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:04:34,093 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:04:34,093 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:04:34,093 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:04:34,104 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:04:34,333 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:04:34,553 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:04:34,553 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:04:34,554 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:05:52,786 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:05:52,799 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:05:52,932 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:05:52,934 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:05:52,937 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:05:52,977 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:05:53,464 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:05:53,606 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:05:53,606 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:05:53,607 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:06:43,009 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:06:43,020 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:06:43,180 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:06:43,182 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:06:43,183 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:06:43,186 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:06:43,477 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:06:43,632 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:06:43,634 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:06:43,636 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:08:34,534 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:08:34,548 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:08:34,699 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:08:34,702 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:08:34,703 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:08:34,708 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:08:34,937 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:08:35,027 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:08:35,028 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:08:35,028 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:10:28,918 INFO  org.example.Main 70 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:10:28,930 INFO  org.example.Main 79 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:10:29,051 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:10:29,053 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:10:29,054 INFO  org.example.Main 80 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:10:29,057 INFO  org.example.Main 84 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:10:29,401 INFO  org.example.Main 89 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:10:29,493 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:10:29,493 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:10:29,494 INFO  org.example.Main 90 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:16:01,482 INFO  org.example.Main 73 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:16:01,492 INFO  org.example.Main 82 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:16:01,602 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:16:01,604 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:16:01,605 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:16:01,609 INFO  org.example.Main 87 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:16:01,777 INFO  org.example.Main 92 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:16:01,864 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:16:01,864 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:16:01,865 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:16:45,875 INFO  org.example.Main 73 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:16:45,888 INFO  org.example.Main 82 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:16:46,001 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:16:46,003 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:16:46,004 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:16:46,009 INFO  org.example.Main 87 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:16:46,122 INFO  org.example.Main 92 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:16:46,200 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:16:46,204 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:16:46,205 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:17:37,662 INFO  org.example.Main 73 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:17:37,674 INFO  org.example.Main 82 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:17:37,772 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:17:37,774 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:17:37,774 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:17:37,777 INFO  org.example.Main 87 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:17:37,857 INFO  org.example.Main 92 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:17:37,935 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:17:37,936 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:17:37,937 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:19:09,581 INFO  org.example.Main 73 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:19:09,598 INFO  org.example.Main 82 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:19:09,731 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:19:09,733 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:19:09,734 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:19:09,818 INFO  org.example.Main 87 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:19:10,004 INFO  org.example.Main 92 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:19:10,104 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:19:10,104 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:19:10,105 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:21:17,717 INFO  org.example.Main 73 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:21:17,727 INFO  org.example.Main 82 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:21:17,858 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:21:17,860 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:21:17,864 INFO  org.example.Main 83 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:21:17,870 INFO  org.example.Main 87 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:21:18,130 INFO  org.example.Main 92 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:21:18,205 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:21:18,206 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:21:18,207 INFO  org.example.Main 93 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:31:58,683 INFO  org.example.Main 82 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:31:58,702 INFO  org.example.Main 91 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:31:58,817 INFO  org.example.Main 92 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:31:58,818 INFO  org.example.Main 92 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:31:58,819 INFO  org.example.Main 92 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:31:58,823 INFO  org.example.Main 96 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:31:58,951 INFO  org.example.Main 101 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:31:59,041 INFO  org.example.Main 102 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:31:59,042 INFO  org.example.Main 102 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:31:59,042 INFO  org.example.Main 102 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:36:24,424 INFO  org.example.Main 91 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:36:24,440 INFO  org.example.Main 100 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:36:24,563 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:36:24,565 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:36:24,566 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:36:24,573 INFO  org.example.Main 105 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:36:24,684 INFO  org.example.Main 110 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:36:24,823 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:36:24,824 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:36:24,824 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:36:34,968 ERROR org.example.Main 65 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 15:37:40,497 ERROR org.example.Main 65 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 15:38:08,546 INFO  org.example.Main 91 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:38:08,557 INFO  org.example.Main 100 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:38:08,700 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:38:08,701 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:38:08,702 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:38:08,706 INFO  org.example.Main 105 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:38:08,855 INFO  org.example.Main 110 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:38:08,981 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:38:08,981 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:38:08,982 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 15:38:20,749 ERROR org.example.Main 65 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 15:40:01,399 INFO  org.example.Main 91 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 15:40:01,424 INFO  org.example.Main 100 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 15:40:01,571 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 15:40:01,574 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 15:40:01,576 INFO  org.example.Main 101 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 15:40:01,582 INFO  org.example.Main 105 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 15:40:01,838 INFO  org.example.Main 110 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 15:40:02,104 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 15:40:02,106 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 15:40:02,109 INFO  org.example.Main 111 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:11:44,077 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:11:44,089 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:11:44,222 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:11:44,223 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:11:44,224 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:11:44,227 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:11:44,345 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:11:44,483 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:11:44,484 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:11:44,484 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:13:29,718 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:13:29,731 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:13:29,890 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:13:29,892 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:13:29,893 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:13:29,896 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:13:30,023 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:13:30,119 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:13:30,120 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:13:30,120 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:13:45,337 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:18,330 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:20,009 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:20,184 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:20,381 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:20,625 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:20,733 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:15:20,871 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:17:00,464 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:17:00,505 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:17:00,851 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:17:00,852 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:17:00,852 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:17:00,876 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:17:01,653 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:17:02,007 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:17:02,008 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:17:02,008 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:18:00,614 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:18:00,636 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:18:00,771 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:18:00,773 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:18:00,775 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:18:00,781 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:18:00,978 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:18:01,087 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:18:01,088 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:18:01,089 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:18:30,446 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:18:30,460 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:18:30,611 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:18:30,612 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:18:30,614 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:18:30,617 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:18:30,783 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:18:30,942 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:18:30,943 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:18:30,943 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:19:01,255 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:19:01,267 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:19:01,427 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:19:01,428 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:19:01,429 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:19:01,433 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:19:01,555 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:19:01,660 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:19:01,661 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:19:01,661 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:19:29,613 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:19:29,631 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:19:29,744 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:19:29,746 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:19:29,747 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:19:29,751 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:19:29,941 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:19:30,024 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:19:30,025 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:19:30,025 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:19:38,850 ERROR org.example.Main 66 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 16:23:56,781 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:23:56,804 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:23:56,954 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:23:56,955 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:23:56,956 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:23:56,962 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:23:57,190 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:23:57,291 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:23:57,292 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:23:57,293 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:28:34,477 INFO  org.example.Main 92 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:28:34,495 INFO  org.example.Main 101 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:28:34,732 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:28:34,733 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:28:34,734 INFO  org.example.Main 102 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:28:34,739 INFO  org.example.Main 106 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:28:34,882 INFO  org.example.Main 111 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:28:35,012 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:28:35,013 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:28:35,016 INFO  org.example.Main 112 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:29:34,270 INFO  org.example.Main 94 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:29:34,285 INFO  org.example.Main 103 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:29:34,426 INFO  org.example.Main 104 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:29:34,427 INFO  org.example.Main 104 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:29:34,429 INFO  org.example.Main 104 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:29:34,433 INFO  org.example.Main 108 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:29:34,578 INFO  org.example.Main 113 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:29:34,706 INFO  org.example.Main 114 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:29:34,708 INFO  org.example.Main 114 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:29:34,710 INFO  org.example.Main 114 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:30:33,719 INFO  org.example.Main 94 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:30:33,739 INFO  org.example.Main 103 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:30:33,882 INFO  org.example.Main 104 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:30:33,884 INFO  org.example.Main 104 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:30:33,886 INFO  org.example.Main 104 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:30:33,954 INFO  org.example.Main 108 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:30:34,186 INFO  org.example.Main 113 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:30:34,299 INFO  org.example.Main 114 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:30:34,299 INFO  org.example.Main 114 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:30:34,300 INFO  org.example.Main 114 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:33:38,328 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:33:38,353 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:33:38,521 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:33:38,523 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:33:38,526 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:33:38,533 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:33:38,692 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:33:38,830 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:33:38,831 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:33:38,832 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 16:39:53,958 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 16:39:53,985 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 16:39:54,150 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 16:39:54,151 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 16:39:54,152 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 16:39:54,156 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 16:39:54,286 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 16:39:54,417 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 16:39:54,418 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 16:39:54,419 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:07:22,246 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:07:22,261 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:07:22,400 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:07:22,402 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:07:22,403 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:07:22,408 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:07:22,702 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:07:22,840 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:07:22,840 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:07:22,841 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:07:37,740 ERROR org.example.Main 69 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+03 Apr 2024 18:08:46,347 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:08:46,371 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:08:46,559 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:08:46,561 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:08:46,563 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:08:46,572 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:08:46,943 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:08:47,072 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:08:47,074 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:08:47,075 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:14:12,924 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:14:12,941 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:14:13,126 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:14:13,128 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:14:13,130 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:14:13,134 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:14:13,392 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:14:13,551 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:14:13,552 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:14:13,553 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:15:01,249 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:15:01,287 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:15:01,433 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:15:01,434 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:15:01,435 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:15:01,439 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:15:01,581 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:15:01,719 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:15:01,720 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:15:01,721 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:15:15,512 ERROR org.example.Main 69 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/nou.fxml:11
+
+03 Apr 2024 18:19:01,338 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:19:01,350 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:19:01,494 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:19:01,496 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:19:01,497 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:19:01,507 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:19:01,614 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:19:01,701 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:19:01,701 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:19:01,702 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:19:12,789 ERROR org.example.Main 69 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/nou.fxml:11
+
+03 Apr 2024 18:56:07,476 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:56:07,522 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:56:08,015 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:56:08,016 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:56:08,017 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:56:08,023 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:56:08,224 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:56:08,599 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:56:08,601 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:56:08,606 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:56:32,176 ERROR org.example.Main 69 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/nou.fxml:11
+
+03 Apr 2024 18:57:03,950 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:57:03,967 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:57:04,186 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:57:04,188 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:57:04,189 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:57:04,194 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:57:04,374 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:57:04,503 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:57:04,504 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:57:04,504 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+03 Apr 2024 18:59:21,047 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+03 Apr 2024 18:59:21,065 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+03 Apr 2024 18:59:21,243 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+03 Apr 2024 18:59:21,244 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+03 Apr 2024 18:59:21,244 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+03 Apr 2024 18:59:21,249 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+03 Apr 2024 18:59:21,386 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+03 Apr 2024 18:59:21,520 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+03 Apr 2024 18:59:21,520 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+03 Apr 2024 18:59:21,521 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+05 Apr 2024 11:56:33,446 INFO  org.example.Main 95 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+05 Apr 2024 11:56:33,482 INFO  org.example.Main 104 testRepositories - Utilizatori din baza de date:
+05 Apr 2024 11:56:33,659 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator1
+05 Apr 2024 11:56:33,660 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator2
+05 Apr 2024 11:56:33,662 INFO  org.example.Main 105 lambda$testRepositories$0 - utilizator3
+05 Apr 2024 11:56:33,666 INFO  org.example.Main 109 testRepositories - 
+Spectacole din baza de date:
+05 Apr 2024 11:56:33,884 INFO  org.example.Main 114 testRepositories - 
+Bilete din baza de date:
+05 Apr 2024 11:56:33,993 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator1 - 2
+05 Apr 2024 11:56:33,994 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator2 - 3
+05 Apr 2024 11:56:33,995 INFO  org.example.Main 115 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:23:39,379 INFO  org.example.Main 129 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:23:39,390 INFO  org.example.Main 138 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:23:39,517 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:23:39,518 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:23:39,518 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:23:39,521 INFO  org.example.Main 143 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:23:39,621 INFO  org.example.Main 148 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:23:39,708 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:23:39,708 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:23:39,709 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:23:50,516 ERROR org.example.Main 83 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+08 Apr 2024 10:28:59,071 INFO  org.example.Main 129 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:28:59,104 INFO  org.example.Main 138 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:28:59,214 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:28:59,215 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:28:59,215 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:28:59,218 INFO  org.example.Main 143 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:28:59,293 INFO  org.example.Main 148 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:28:59,406 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:28:59,406 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:28:59,407 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:32:58,181 INFO  org.example.Main 129 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:32:58,198 INFO  org.example.Main 138 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:32:58,332 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:32:58,333 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:32:58,334 INFO  org.example.Main 139 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:32:58,337 INFO  org.example.Main 143 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:32:58,440 INFO  org.example.Main 148 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:32:58,526 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:32:58,527 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:32:58,527 INFO  org.example.Main 149 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:33:11,288 ERROR org.example.Main 83 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+08 Apr 2024 10:38:28,962 INFO  org.example.Main 130 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:38:28,972 INFO  org.example.Main 139 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:38:29,052 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:38:29,053 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:38:29,054 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:38:29,057 INFO  org.example.Main 144 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:38:29,116 INFO  org.example.Main 149 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:38:29,170 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:38:29,170 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:38:29,171 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:38:39,227 ERROR org.example.Main 84 openMainWindow - Error loading MainWindow.fxml: 
+/C:/Users/Galdeanu/Desktop/facultate/an2/mpp_labs/lab3/build/resources/main/MainWindow.fxml:11
+
+08 Apr 2024 10:46:37,308 INFO  org.example.Main 130 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:46:37,318 INFO  org.example.Main 139 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:46:37,409 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:46:37,410 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:46:37,410 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:46:37,413 INFO  org.example.Main 144 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:46:37,484 INFO  org.example.Main 149 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:46:37,551 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:46:37,551 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:46:37,552 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:52:17,176 INFO  org.example.Main 130 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:52:17,193 INFO  org.example.Main 139 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:52:17,293 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:52:17,293 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:52:17,294 INFO  org.example.Main 140 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:52:17,297 INFO  org.example.Main 144 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:52:17,382 INFO  org.example.Main 149 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:52:17,452 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:52:17,453 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:52:17,453 INFO  org.example.Main 150 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 10:53:39,420 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 10:53:39,433 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 10:53:39,530 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 10:53:39,531 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 10:53:39,531 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 10:53:39,535 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 10:53:39,607 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 10:53:39,674 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 10:53:39,675 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 10:53:39,675 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:00:08,680 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:00:08,691 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:00:08,776 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:00:08,780 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:00:08,784 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:00:08,790 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:00:08,886 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:00:08,981 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:00:08,982 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:00:08,983 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:01:34,303 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:01:34,315 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:01:34,409 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:01:34,411 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:01:34,412 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:01:34,419 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:01:34,527 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:01:34,646 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:01:34,648 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:01:34,649 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:07:00,333 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:07:00,345 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:07:00,448 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:07:00,449 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:07:00,450 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:07:00,453 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:07:00,578 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:07:00,674 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:07:00,674 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:07:00,675 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:10:24,560 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:10:24,573 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:10:24,683 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:10:24,685 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:10:24,687 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:10:24,690 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:10:24,849 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:10:24,925 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:10:24,926 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:10:24,927 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:16:07,198 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:16:07,212 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:16:07,311 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:16:07,312 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:16:07,313 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:16:07,316 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:16:07,426 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:16:07,529 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:16:07,529 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:16:07,530 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:19:07,210 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:19:07,224 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:19:07,356 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:19:07,357 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:19:07,357 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:19:07,361 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:19:07,477 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:19:07,598 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:19:07,599 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:19:07,599 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:21:53,030 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:21:53,041 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:21:53,212 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:21:53,213 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:21:53,214 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:21:53,216 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:21:53,318 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:21:53,434 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:21:53,434 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:21:53,435 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 11:57:55,140 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 11:57:55,161 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 11:57:55,308 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 11:57:55,308 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 11:57:55,309 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 11:57:55,314 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 11:57:55,441 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 11:57:55,599 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 11:57:55,599 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 11:57:55,600 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:00:34,673 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:00:34,690 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:00:34,834 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:00:34,836 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:00:34,837 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:00:34,842 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:00:34,941 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:00:35,075 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:00:35,076 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:00:35,076 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:02:21,189 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:02:21,202 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:02:21,360 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:02:21,366 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:02:21,366 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:02:21,370 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:02:21,481 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:02:21,627 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:02:21,628 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:02:21,628 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:08:08,667 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:08:08,688 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:08:08,826 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:08:08,828 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:08:08,830 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:08:08,835 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:08:08,926 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:08:09,019 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:08:09,019 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:08:09,020 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:15:33,109 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:15:33,132 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:15:33,382 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:15:33,384 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:15:33,386 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:15:33,391 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:15:33,529 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:15:33,636 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:15:33,637 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:15:33,638 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:16:14,939 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:16:14,955 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:16:15,102 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:16:15,104 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:16:15,105 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:16:15,109 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:16:15,209 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:16:15,318 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:16:15,320 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:16:15,320 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:18:46,203 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:18:46,218 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:18:46,337 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:18:46,338 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:18:46,338 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:18:46,342 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:18:46,461 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:18:46,578 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:18:46,579 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:18:46,580 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:32:09,188 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:32:09,202 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:32:09,344 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:32:09,345 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:32:09,346 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:32:09,349 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:32:09,474 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:32:09,589 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:32:09,590 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:32:09,590 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:34:02,228 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:34:02,244 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:34:02,379 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:34:02,380 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:34:02,381 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:34:02,385 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:34:02,531 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:34:02,638 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:34:02,639 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:34:02,640 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:34:30,039 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:34:30,056 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:34:30,208 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:34:30,209 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:34:30,210 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:34:30,215 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:34:30,326 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:34:30,432 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:34:30,433 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:34:30,433 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:35:13,866 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:35:13,884 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:35:14,018 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:35:14,021 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:35:14,022 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:35:14,027 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:35:14,164 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:35:14,255 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:35:14,256 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:35:14,256 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:38:09,434 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:38:09,451 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:38:09,610 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:38:09,612 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:38:09,612 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:38:09,617 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:38:09,785 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:38:09,884 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:38:09,885 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:38:09,885 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 12:46:23,174 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 12:46:23,193 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 12:46:23,397 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 12:46:23,397 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 12:46:23,399 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 12:46:23,403 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 12:46:23,559 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 12:46:23,688 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 12:46:23,689 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 12:46:23,690 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 13:25:49,609 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 13:25:49,624 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 13:25:49,811 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 13:25:49,812 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 13:25:49,812 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 13:25:49,818 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 13:25:49,964 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 13:25:50,065 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 13:25:50,065 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 13:25:50,066 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 13:32:54,410 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 13:32:54,429 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 13:32:54,594 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 13:32:54,595 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 13:32:54,596 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 13:32:54,599 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 13:32:54,796 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 13:32:54,919 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 13:32:54,921 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 13:32:54,922 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 13:37:23,087 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 13:37:23,108 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 13:37:23,290 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 13:37:23,291 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 13:37:23,292 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 13:37:23,295 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 13:37:23,419 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 13:37:23,529 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 13:37:23,529 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 13:37:23,530 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 13:48:48,069 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 13:48:48,087 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 13:48:48,218 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 13:48:48,219 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 13:48:48,220 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 13:48:48,223 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 13:48:48,384 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 13:48:48,388 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 13:48:48,398 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 13:48:48,406 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 13:48:48,656 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 13:48:48,657 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 13:48:48,658 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 13:53:33,170 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 13:53:33,198 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 13:53:33,345 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 13:53:33,346 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 13:53:33,347 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 13:53:33,351 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 13:53:33,474 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 13:53:33,476 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 13:53:33,477 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 13:53:33,480 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 13:53:33,590 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 13:53:33,591 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 13:53:33,591 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 19:48:42,560 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 19:48:42,572 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 19:48:42,745 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 19:48:42,746 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 19:48:42,748 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 19:48:42,753 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 19:48:42,890 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 19:48:42,892 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 19:48:42,894 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 19:48:42,897 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 19:48:43,009 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 19:48:43,010 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 19:48:43,010 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 19:59:45,550 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 19:59:45,570 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 19:59:45,700 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 19:59:45,703 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 19:59:45,703 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 19:59:45,709 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 19:59:45,841 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 19:59:45,842 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 19:59:45,843 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 19:59:45,848 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 19:59:45,940 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 19:59:45,941 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 19:59:45,941 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 21:39:15,177 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 21:39:15,193 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 21:39:15,319 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 21:39:15,320 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 21:39:15,321 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 21:39:15,327 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 21:39:15,409 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 21:39:15,410 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 21:39:15,411 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 21:39:15,416 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 21:39:15,508 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 21:39:15,508 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 21:39:15,510 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 21:41:25,624 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 21:41:25,642 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 21:41:25,800 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 21:41:25,801 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 21:41:25,802 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 21:41:25,808 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 21:41:25,936 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 21:41:25,937 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 21:41:25,938 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 21:41:25,942 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 21:41:26,064 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 21:41:26,065 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 21:41:26,066 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 21:52:56,201 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 21:52:56,216 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 21:52:56,355 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 21:52:56,359 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 21:52:56,361 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 21:52:56,369 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 21:52:56,587 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 21:52:56,588 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 21:52:56,589 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 21:52:56,593 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 21:52:56,677 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 21:52:56,678 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 21:52:56,679 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 21:55:20,633 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 21:55:20,650 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 21:55:20,803 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 21:55:20,805 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 21:55:20,806 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 21:55:20,810 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 21:55:20,926 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 21:55:20,928 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 21:55:20,929 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 21:55:20,933 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 21:55:21,010 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 21:55:21,011 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 21:55:21,011 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 21:58:42,979 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 21:58:42,993 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 21:58:43,122 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 21:58:43,123 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 21:58:43,124 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 21:58:43,128 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 21:58:43,258 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 21:58:43,259 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 21:58:43,259 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 21:58:43,263 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 21:58:43,362 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 21:58:43,363 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 21:58:43,363 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:00:36,361 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:00:36,375 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:00:36,499 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:00:36,500 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:00:36,501 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:00:36,506 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:00:36,605 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:00:36,606 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:00:36,607 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:00:36,610 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:00:36,706 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:00:36,707 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:00:36,708 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:18:09,787 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:18:09,803 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:18:09,938 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:18:09,940 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:18:09,942 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:18:09,947 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:18:10,100 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:18:10,101 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:18:10,102 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:18:10,105 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:18:10,186 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:18:10,186 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:18:10,187 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:30:29,586 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:30:29,602 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:30:29,759 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:30:29,760 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:30:29,761 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:30:29,766 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:30:29,925 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:30:29,933 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:30:29,944 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:30:29,953 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:30:30,089 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:30:30,090 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:30:30,090 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:32:50,339 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:32:50,362 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:32:50,526 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:32:50,529 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:32:50,530 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:32:50,535 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:32:50,680 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:32:50,682 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:32:50,683 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:32:50,687 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:32:50,791 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:32:50,792 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:32:50,792 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:34:02,221 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:34:02,240 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:34:02,387 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:34:02,388 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:34:02,389 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:34:02,393 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:34:02,533 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:34:02,534 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:34:02,535 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:34:02,538 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:34:02,637 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:34:02,637 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:34:02,638 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:37:37,899 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:37:37,914 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:37:38,062 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:37:38,065 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:37:38,066 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:37:38,071 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:37:38,238 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:37:38,239 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:37:38,239 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:37:38,242 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:37:38,323 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:37:38,323 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:37:38,324 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
+08 Apr 2024 22:41:39,760 INFO  org.example.Main 101 testConnection - Conexiunea la baza de date PostgreSQL s-a realizat cu succes!
+08 Apr 2024 22:41:39,776 INFO  org.example.Main 110 testRepositories - Utilizatori din baza de date:
+08 Apr 2024 22:41:39,931 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator1
+08 Apr 2024 22:41:39,933 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator2
+08 Apr 2024 22:41:39,934 INFO  org.example.Main 111 lambda$testRepositories$0 - utilizator3
+08 Apr 2024 22:41:39,938 INFO  org.example.Main 115 testRepositories - 
+Spectacole din baza de date:
+08 Apr 2024 22:41:40,113 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-21 - Artist2
+08 Apr 2024 22:41:40,114 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-22 - Artist3
+08 Apr 2024 22:41:40,115 INFO  org.example.Main 116 lambda$testRepositories$1 - 2024-03-20 - Artist1
+08 Apr 2024 22:41:40,119 INFO  org.example.Main 120 testRepositories - 
+Bilete din baza de date:
+08 Apr 2024 22:41:40,208 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator1 - 2
+08 Apr 2024 22:41:40,209 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator2 - 3
+08 Apr 2024 22:41:40,209 INFO  org.example.Main 121 lambda$testRepositories$2 - Cumparator3 - 1
