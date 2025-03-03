@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="600" prefWidth="800" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.MainController">
+    <!-- Lista spectacolelor -->
+    <TableView fx:id="spectacolTable" layoutX="50" layoutY="50" prefHeight="200" prefWidth="700">
+        <columns>
+            <TableColumn fx:id="artistColumn" prefWidth="150" text="Nume Artist">
+                <cellValueFactory>
+                    <PropertyValueFactory property="numeArtist" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="dateColumn" prefWidth="150" text="Data">
+                <cellValueFactory>
+                    <PropertyValueFactory property="data" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="availableSeatsColumn" prefWidth="150" text="Locuri disponibile">
+                <cellValueFactory>
+                    <PropertyValueFactory property="locuriDisponibile" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="locationColumn" prefWidth="150" text="Loc">
+                <cellValueFactory>
+                    <PropertyValueFactory property="loc" />
+                </cellValueFactory>
+            </TableColumn>
+
+            <!-- Coloana pentru numărul de locuri vândute -->
+            <TableColumn fx:id="soldSeatsColumn" prefWidth="150" text="Locuri vândute">
+                <cellValueFactory>
+                    <PropertyValueFactory property="numarLocVandute" />
+                </cellValueFactory>
+            </TableColumn>
+        </columns>
+    </TableView>
+
+    <!-- Căutare după dată -->
+    <Label layoutX="50" layoutY="270" text="Căutare spectacol după dată:" />
+    <TextField fx:id="searchDateField" layoutX="220" layoutY="270" prefWidth="150" />
+    <Button layoutX="400" layoutY="270" mnemonicParsing="false" onAction="#searchByDate" text="Caută" />
+    <Button layoutX="463.0" layoutY="270" mnemonicParsing="false" onAction="#refreshSpectacolTable" prefHeight="25.0" prefWidth="65.0" text="Refresh" />
+
+    <!-- Detalii achiziționare bilete -->
+    <Label layoutX="50" layoutY="480" text="Achiziționare bilete" />
+    <Label layoutX="50" layoutY="510" text="Nume cumpărător:" />
+    <TextField fx:id="buyerNameField" layoutX="180" layoutY="510" prefWidth="150" />
+    <Label layoutX="50" layoutY="540" text="Număr locuri:" />
+    <TextField fx:id="numSeatsField" layoutX="180" layoutY="540" prefWidth="50" />
+    <Button layoutX="300" layoutY="540" mnemonicParsing="false" onAction="#buyTickets" text="Achiziționează" />
+
+    <!-- Logout -->
+    <Button layoutX="50" layoutY="570" mnemonicParsing="false" onAction="#logout" text="Logout" />
+</AnchorPane>
